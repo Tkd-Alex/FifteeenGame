@@ -38,7 +38,10 @@ Displays the best time in seconds.
 Displays the moves record.
 
 ###Screenshot.
+
 ![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteenGame/master/img/inGame.png "Numbers mode")
+
 ![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteenGame/master/img/Win.png "Ended play")
+
 ![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteenGame/master/img/ImageMode.png "Image mode")
 
