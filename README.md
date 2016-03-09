@@ -16,7 +16,7 @@ In the lower part instead of buttons are present, and the various details of the
 
 The buttons are exctaly four:
 
-1. **Image/Number Mode. **
+1. **Image/Number Mode.**
 Allow to change the game mode between "numbers" and "image". The default image is [Lenna](https://en.wikipedia.org/wiki/Lenna).
 2. **Load Image.** 
 Allow to load image from hard drive.
