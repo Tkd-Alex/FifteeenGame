@@ -1,3 +1,6 @@
+//	Tkd-Alex alex.tkd.alex@gmail.com 
+//	https://www.fb.com/tkdalex.social , https://github.com/Tkd-Alex , http://www.tkdalex.altervista.org
+
 import static javax.swing.JOptionPane.*;
 
 color backgroundColor = color(235,235,235); //Color of backgound.
