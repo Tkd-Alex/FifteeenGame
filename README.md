@@ -6,8 +6,24 @@ FifteenGame is a remake of the famous ["Game of Fifteen"](https://en.wikipedia.o
 
 ####Interface description.
 The game interface is very minimal and three colors were mainly used:
+
 - Green.
 - Light blue.
 - Grey.
 
+In the upper part there is "table" of square shape divided into four rows and four columns for a total of sixteen locations. The various tiles are numbered with numbers ranging from one to sixteen in the case where it is playing with the "numbers" mode.
+In the lower part instead of buttons are present, and the various details of the game.
+
+The buttons are exctaly four:
+
+1. **Image/Number Mode. **
+Allow to change the game mode between "numbers" and "image". The default image is [Lenna](https://en.wikipedia.org/wiki/Lenna).
+2. **Load Image.** 
+Allow to load image from hard drive.
+3. **Restart.** 
+Restart the game with a new play
+4. **Quit.** 
+Exit of game.
+
+The information about game are:
 
