@@ -1,4 +1,4 @@
-![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteeenGame/master/FifteenGame.png "FifteenGame")
+![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteenGame/master/img/FifteenGame.png "FifteenGame")
 #FifteenGame
 FifteenGame is a remake of the famous ["Game of Fifteen"](https://en.wikipedia.org/wiki/15_puzzle) developed in Processing / Java used the IDE of Processing 3.0.
 
@@ -16,25 +16,16 @@ In the lower part instead of buttons are present, and the various details of the
 
 The buttons are exctaly four:
 
-<<<<<<< HEAD
-1. **Image/Number Mode. **
-=======
 1. **Image/Number Mode.**
->>>>>>> 4e4b10344d920cb75226ebcb5374fa4614a93dd2
 Allow to change the game mode between "numbers" and "image". The default image is [Lenna](https://en.wikipedia.org/wiki/Lenna).
 2. **Load Image.** 
 Allow to load image from hard drive.
 3. **Restart.** 
-<<<<<<< HEAD
 Restart the game with a new play.
-=======
-Restart the game with a new play
->>>>>>> 4e4b10344d920cb75226ebcb5374fa4614a93dd2
 4. **Quit.** 
 Exit of game.
 
 The information about game are:
-<<<<<<< HEAD
 
 - **Total Time.**
 Displays the elapsed time in the format minutes / seconds / milliseconds.
@@ -47,10 +38,7 @@ Displays the best time in seconds.
 Displays the moves record.
 
 ###Screenshot.
-![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteeenGame/master/FifteenGame.png "Numbers mode")
-![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteeenGame/master/FifteenGame.png "Ended play")
-![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteeenGame/master/FifteenGame.png "Image mode")
-
-=======
->>>>>>> 4e4b10344d920cb75226ebcb5374fa4614a93dd2
+![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteenGame/master/img/inGame.png "Numbers mode")
+![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteenGame/master/img/Win.png "Ended play")
+![FifteenGame](https://raw.githubusercontent.com/Tkd-Alex/FifteenGame/master/img/ImageMode.png "Image mode")
 
